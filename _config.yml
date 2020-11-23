@@ -14,11 +14,11 @@ author: Patrick Rice
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About: "aboutme"
   Resume: "https://github.com/ricepc/ricepc.github.io/raw/master/Patrick_Rice_Resume.pdf"
-  Projects:
-    - Forecasting: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  #Projects:
+  #  - Forecasting: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
   Contact Me: "aboutme"
   #Author's home: "https://deanattali.com"
 
