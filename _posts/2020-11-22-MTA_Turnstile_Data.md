@@ -16,7 +16,7 @@ All data for this project can be found at http://web.mta.info/developers/turnsti
 Each week the Metropolitan Transportation Authority posts a txt file with the daily number of entries and exits from all New York subway stations. My goal in this analysis is to focus on only the data from Penn Station. 
 
 # Visualizing the Data
-
+![Time Series Data](/assets/img/Turnstile _images/Full_TS_AutoPlot.png){: .mx-auto.d-block :}
 # Forecast Models
 
 # Conclusion
