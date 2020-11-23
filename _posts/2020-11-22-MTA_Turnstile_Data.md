@@ -8,15 +8,14 @@ tags: [Forecasting, R, Python]
 ---
 
 # Summary:
-Turnstile data taken from Metropolitan Transportation Authority for the purposes of exploratory analysis and forecasting.
+The Covid-19 pandemic has presented many industries with an interesting problem, Is it possible to model customer actions as they begin to adjust to the new normal? Using Data provided by New York's Metropolitan Transportation Authority, I was able to create a reliable firecast. 
 
 # Retrieving and Cleaning the Data
-All data for this project can be found [here](http://web.mta.info/developers/turnstile.html) or on my github page LINK NEEDED. 
+All data for this project can be found on Metropolitan Transportation Authority's (MTA) [website](http://web.mta.info/developers/turnstile.html) or on [my github page.](https://github.com/ricepc/MTA_Turnstile_Data) 
 
-Each week the Metropolitan Transportation Authority posts a txt file with the daily number of entries and exits from all New York subway stations. My goal in this analysis is to focus on only the data from Penn Station. 
+Each week the MTA posts a txt file with the daily number of entries and exits from all New York subway stations. My goal in this analysis was to focus on only the data from Penn Station to better understand what patterns exist in the data and how they may be used to predict future ridership as New Yorkers begin to adjust to the new normal.
 
 # Visualizing the Data
-Look at this time series data isnt cool. look covid :
 
 ![Time Series Data](https://github.com/ricepc/ricepc.github.io/raw/master/assets/Turnstile%20_Images/Full_TS_AutoPlot.JPG)
 
