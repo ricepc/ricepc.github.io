@@ -8,7 +8,6 @@ I am a full-time Jr. Data Analyst, currently on track to complete my Masters deg
 
 Ever since college, it has been my philosphy that you can't celebrate a birthday without a cake and therefore spend my free time baking for friends and family.
 
-<!DOCTYPE html>
 <html>
 <head>
 <style>
