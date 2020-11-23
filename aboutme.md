@@ -20,4 +20,17 @@ Ever since college, it has been my philosphy that you can't celebrate a birthday
   </div>
 </div>
 
+<div class="content">
+    <div>
+      <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/office.PNG" alt="office" width="200">
+    </div>
+
+    <div>
+      <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/tarts.PNG" alt="tarts" width="200">
+    </div>
+
+    <div>
+      <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/skull.PNG" alt="skull" width="200">
+    </div>
+</div>
 
