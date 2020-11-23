@@ -10,27 +10,13 @@ Ever since college, it has been my philosphy that you can't celebrate a birthday
 
 <div class="row">
   <div class="column">
-    <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/office.PNG" alt="office" width="200">
+    <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/office.PNG" alt="office" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/tarts.PNG" alt="tarts" width="200">
+    <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/tarts.PNG" alt="tarts" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/skull.PNG" alt="skull" width="200">
+    <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/skull.PNG" alt="skull" style="width:100%">
   </div>
-</div>
-
-<div class="content">
-    <div>
-      <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/office.PNG" alt="office" width="200">
-    </div>
-
-    <div>
-      <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/tarts.PNG" alt="tarts" width="200">
-    </div>
-
-    <div>
-      <img src="https://github.com/ricepc/ricepc.github.io/raw/master/assets/img/skull.PNG" alt="skull" width="200">
-    </div>
 </div>
 
