@@ -18,7 +18,7 @@ Each week the Metropolitan Transportation Authority posts a txt file with the da
 # Visualizing the Data
 Look at this time series data isnt cool. look covid :
 
-![Time Series Data](https://github.com/ricepc/ricepc.github.io/raw/master/assets/Turnstile%20_Images/Full_TS_AutoPlot.jpg)
+![Time Series Data](https://github.com/ricepc/ricepc.github.io/raw/master/assets/Turnstile%20_Images/Full_TS_AutoPlot.JPG)
 
 ![Covid Time Series Data](https://github.com/ricepc/ricepc.github.io/raw/master/assets/Turnstile%20_Images/Covid_TS_Autoplot.jpeg)
 
