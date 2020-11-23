@@ -14,7 +14,7 @@ author: Patrick Rice
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   Projects:
     - Forecasting: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
