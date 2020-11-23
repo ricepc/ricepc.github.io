@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Patrick Rice
 
 # Your name to show in the footer
 author: Patrick Rice
@@ -15,8 +15,8 @@ author: Patrick Rice
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+  Projects:
+    - Forecasting: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   #Author's home: "https://deanattali.com"
 
