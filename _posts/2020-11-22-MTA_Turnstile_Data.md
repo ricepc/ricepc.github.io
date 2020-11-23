@@ -4,7 +4,7 @@ title: Predicting Subway Usage in the Covid-19 Era
 cover-img: /assets/img/PennStat.png
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
-#tags: [books, test]
+tags: [Forecasting, R, Python]
 ---
 
 # Summary:
