@@ -17,13 +17,13 @@ Each week the MTA posts a txt file with the daily number of entries and exits fr
 
 The data provided by MTA give the running totals for each for turnstile at 4 hour incriments. Below is an example of the first rows of the data. 
 
-|C/A|UNIT|SCP|STATION|LINENAME|DIVISION|DATE|TIME|DESC|ENTRIES|EXITS|                                                               
-|:---||:---||:---||:---||:---||:---||:---||:---||:---||:---|
-|A002|R051|02-00-00|59 ST|NQR456W|BMT|11/14/2020|03:00:00|REGULAR|0007488490|0002548950|                                           
-|A002|R051|02-00-00|59 ST|NQR456W|BMT|11/14/2020|07:00:00|REGULAR|0007488497|0002548957|                                           
-|A002|R051|02-00-00|59 ST|NQR456W|BMT|11/14/2020|11:00:00|REGULAR|0007488527|0002549007|                                          
-|A002|R051|02-00-00|59 ST|NQR456W|BMT|11/14/2020|15:00:00|REGULAR|0007488630|0002549046|                                            
-|A002|R051|02-00-00|59 ST|NQR456W|BMT|11/14/2020|19:00:00|REGULAR|0007488805|0002549080|
+| C/A | UNIT | SCP | STATION | LINENAME | DIVISION | DATE | TIME | DESC | ENTRIES | EXITS |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 03:00:00 | REGULAR | 0007488490 | 0002548950 |
+| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 07:00:00 | REGULAR | 0007488497 | 0002548957 |
+| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 11:00:00 | REGULAR | 0007488527 | 0002549007 |
+| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 15:00:00 | REGULAR | 0007488630 | 0002549046 |
+| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 19:00:00 | REGULAR | 0007488805 | 0002549080 |
 
 
 
