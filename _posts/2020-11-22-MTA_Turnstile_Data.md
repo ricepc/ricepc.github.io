@@ -15,17 +15,7 @@ All data for this project can be found on Metropolitan Transportation Authority'
 
 Each week the MTA posts a txt file with the daily number of entries and exits from all New York subway stations. My goal in this analysis was to focus on only the data from Penn Station to better understand what patterns exist in the data and how they may be used to predict future ridership as New Yorkers begin to adjust to the new normal.
 
-The data provided by MTA give the running totals for each for turnstile at 4 hour incriments. Below is an example of the first rows of the data. 
-
-| C/A | UNIT | SCP | STATION | LINENAME | DIVISION | DATE | TIME | DESC | ENTRIES | EXITS |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 03:00:00 | REGULAR | 0007488490 | 0002548950 |
-| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 07:00:00 | REGULAR | 0007488497 | 0002548957 |
-| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 11:00:00 | REGULAR | 0007488527 | 0002549007 |
-| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 15:00:00 | REGULAR | 0007488630 | 0002549046 |
-| A002 | R051 | 02-00-00 | 59 ST | NQR456W | BMT | 11/14/2020 | 19:00:00 | REGULAR | 0007488805 | 0002549080 |
-
-
+The data provided by MTA shows a running total for how many people have entered or exited throgh a given turnstile. In order to get the daily totals I first found the totals for each turnstile and then aggregated up to the station. 
 
 # Visualizing the Data
 With any time series project the first step is to simply plot the data vs time. Below we see just how big of an impact Covid-19 has had on travel through Penn Station. Prior to the Pandemic, a typical weekday could bring upwards of 300,000 people, and now a whole order of magnitude less. There also appears to be some seasonality within each week and across each year. Something we will want to explore before building our models.  
