@@ -28,8 +28,15 @@ When looking at the data by weekday, itis apparent that there will be less traff
 
 ![Covid ssubseries](https://github.com/ricepc/ricepc.github.io/raw/master/assets/Turnstile%20_Images/covid_ggsubseries.png)
 
+Using STL decomposition, we are able to break the data into its trend and seasonal componets. Penn Station's ridership has increasing fairly linearly since the intial weeks of the pandemic. The change in seasonality also corresponds with this increasing trend.
 ![Covid Decomp](https://github.com/ricepc/ricepc.github.io/raw/master/assets/Turnstile%20_Images/STL_Decomp.png)
 
 # Forecast Models
+There are three type of models I used on this data. ETS, ARIMA, and an ensable of the two. 
+
+## ETS
+## ARIMA
+## Ensable Method
+## Choosing the Best of the Three
 
 # Conclusion
