@@ -15,7 +15,7 @@ author: Patrick Rice
 
 navbar-links:
   Resume: "https://github.com/ricepc/ricepc.github.io/raw/master/Patrick_Rice_Resume.pdf"
-  About: "aboutme"
+  #About: "aboutme"
   #Projects:
   #  - Forecasting: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
@@ -162,7 +162,7 @@ footer-link-col: "#000000"
 # --- Misc --- #
 
 # Ruby Date Format to show dates of posts
-date_format: "%B %-d, %Y"
+#date_format: "%B %-d, %Y"
 
 # Facebook App ID
 #fb_app_id: ""
