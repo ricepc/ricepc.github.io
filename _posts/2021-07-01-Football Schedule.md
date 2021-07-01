@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Python to football
-cover-img: /assets/img/football_image.png
+cover-img: /assets/img/football_image.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
 tags: [Optimization, Python, Pyomo]
