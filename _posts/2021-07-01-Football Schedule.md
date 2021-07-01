@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Python to football
+title: Finding an Optimal NFL Schedule with Python
 cover-img: /assets/img/football_image.jpg
 #thumbnail-img: /assets/img/thumb.png
 #share-img: /assets/img/path.jpg
